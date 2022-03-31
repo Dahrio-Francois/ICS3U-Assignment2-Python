@@ -16,7 +16,7 @@ def main():
 
     # output
     print("")
-    print("{} * {} = {}²".format(6, integer, calculation))
+    print("{} * {}² = {}²".format(6, integer, calculation))
     print("\nDone")
 
 
